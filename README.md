@@ -78,7 +78,7 @@
         height="48"
         alt="Sass"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Sass</strong>
     </td>
   </tr>
   <tr>
