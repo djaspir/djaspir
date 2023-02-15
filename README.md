@@ -1,7 +1,7 @@
 # 👋 Hello There!
 
 <div align="justify">
-    My name is Jasper Sanchez and I'm a Frontend Developer who loves to work with JavaScript technologies. Right now I am focused on learning everything that is related to Web Development especially Back End Development to extend further my expertise to a Full Stack Web Developer. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    Hello, I'm Jasper Sanchez, a Full Stack Developer with a passion for JavaScript technologies. I'm currently expanding my knowledge in Web Development to become a better Full Stack Web Developer. I'm enthusiastic about exploring new technologies that I can use to solve real-life problems. With experience in developing web applications, I am always excited to take on new challenges and learn from them. In my free time, I love playing with electronics and building projects that can improve people's lives. Welcome to my GitHub page, and thank you for stopping by!
 </div>
 
 # 🛠️ Technologies & Tools
