@@ -1,7 +1,7 @@
 # 👋 Hello There!
 
 <div align="justify">
-    Hello, I'm Jasper Sanchez, a Full Stack Developer with a passion for JavaScript technologies. I'm currently expanding my knowledge in Web Development to become a better Full Stack Web Developer. I'm enthusiastic about exploring new technologies that I can use to solve real-life problems. With experience in developing web applications, I am always excited to take on new challenges and learn from them. In my free time, I love playing with electronics and building projects that can improve people's lives. Welcome to my GitHub page, and thank you for stopping by!
+    Hello, I'm Jasper Sanchez, a Full Stack Developer with a passion for JavaScript technologies. I'm always excited to take on new challenges and expand my knowledge in Web Development. With experience in developing web applications, I am enthusiastic about exploring new technologies that I can use to solve real-life problems. In my free time, I love playing video games. Welcome to my GitHub page, and thank you for stopping by!
 </div>
 
 # 🛠️ Technologies & Tools
