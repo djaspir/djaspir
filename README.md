@@ -31,7 +31,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
         width="48"
         height="48"
-        style="filter: invert(1)"
         alt="Next.js"
       />
       <br /><strong>Next.js</strong>
