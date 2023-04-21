@@ -31,6 +31,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
         width="48"
         height="48"
+        style="filter: grayscale(100%) brightness(200%)
         alt="Next.js"
       />
       <br /><strong>Next.js</strong>
@@ -70,6 +71,15 @@
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
     </td>
   </tr>
   <tr>
