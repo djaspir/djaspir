@@ -4,6 +4,9 @@
     Hello, I'm Jasper Sanchez, a Full Stack Developer with a passion for JavaScript technologies. I'm always excited to take on new challenges and expand my knowledge in Web Development. With experience in developing web applications, I am enthusiastic about exploring new technologies that I can use to solve real-life problems. In my free time, I love playing video games. Welcome to my GitHub page, and thank you for stopping by!
 </div>
 
+<br/><a href="https://www.linkedin.com/in/jaspersanchez09/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:jaspersanchez1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
 # 🛠️ Technologies & Tools
 
 <table>
@@ -165,6 +168,7 @@ src="https://github-readme-stats.vercel.app/api?username=jaspersanchez&show_icon
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=jaspersanchez&&theme=react&&hide_border=true"
 />
-
+<br/>
+![](https://komarev.com/ghpvc/?username=jaspersanchez)
 
 
